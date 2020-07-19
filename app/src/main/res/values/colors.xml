@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7C7E7E</color>
+    <color name="colorPrimaryDark">#424444</color>
+    <color name="colorAccent">#15BED5</color>
+    <color name="White">#FFFFFF</color>
+
+    <color name="fail">#e50909</color>
+    <color name="complete">#1FB133</color>
+
+    <color name="priorityHigh">#C2185B</color>
+    <color name="priorityMedium">#FF6D00</color>
+    <color name="priorityLow">#FFD600</color>
+    <color name="priorityNone">#15BED5</color>
+</resources>
